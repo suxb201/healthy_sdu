@@ -18,7 +18,7 @@ global_cookies = {
 }
 
 def post_info():
-    url = "https://jkct.sdu.edu.cn/func/wechat/yqsb/submit"
+    url = "http://jkct.sdu.edu.cn/func/wechat/yqsb/submit"
     data = {
         "curChange": "",
         "isEnglish": False,
